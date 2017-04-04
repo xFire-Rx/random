@@ -3,8 +3,8 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 jewel.load("diamond.png");// image to use (must be stored in "random/bin/data" folder)
-X = {500, 1000, 30, 100, 300, 200, 750, 380 };// set of x-coordinates for jewel
-Y = {630, 400, 900,40, 200, 0, 90, 30}; //set of y-coordinates for jewel
+X = {500, 1000, 30, 100, 300, 200, 750, 380, 500, 100, 303, 10, 3, 2, 75, 38, 1200, 0, 45, 90};// set of x-coordinates for jewel
+Y = {630, 400, 900, 40, 200, 0, 90, 30, 200, 0, 90, 30, 630, 400, 900,40, 970, 0, 60, 183}; //set of y-coordinates for jewel
 }
 
 //--------------------------------------------------------------
